@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+        padding: 0;
+    }
+    /* Estilo para
+    o cabeçalho */
+    header {
+    background-color: #90EE90; /* Cor verde claro */
+    padding: 20px;
+    text-align: center;
+    }
+    header h1 {
+    margin: 0;
+    color: white;
+    }
+    nav ul {
+    list-style-type: none;
+    padding: 0;
+    }
+    nav ul li {
+    display: inline;
+    margin: 0 10px;
+    }
+    nav ul li a {   
+    color: white;  
+    text-decoration: none; 
+    font-weight: bold;
+    }
+    /* Estilo para
+    o corpo principal */
+    main { 
+    padding: 20px;
+    }
+    section {
+    margin-bottom: 20px;
+    }
+    section h2 {
+        color: #2E8B57; /* Cor verde */
+    }
+    section p {
+    font-size: 16px;
+    }
+    section img {
+    max-width: 100%;  
+    height: auto; 
+    display: block;
+        margin: 10px 0;
+    }
+    /* Estilo para
+    o vídeo */
+    video {
+    max-width: 100%;
+    display: block;
+    margin: 20px 0;
+    }
+    /* Estilo para
+    o rodapé */
+    footer {
+    background-color: #2E8B57;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    }
